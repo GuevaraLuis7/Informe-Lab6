@@ -29,6 +29,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ## Marco teórico
 
+<img src="imagenes/resumen.png">
+
 ## Explicación del procedimiento
 
 ***Material y equipo requerido***
