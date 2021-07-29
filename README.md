@@ -29,7 +29,7 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ## Marco teórico
 
-<img src="imagenes/resumen.png">
+<img src="imagenes/resumen.png" width="500">
 
 ## Explicación del procedimiento
 
