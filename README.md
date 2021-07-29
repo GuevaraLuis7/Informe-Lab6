@@ -33,6 +33,8 @@ GUEVARA CARVAJAL LUIS EDUARDO
 
 ***Material y equipo requerido***
 
+<img src="imagenes/tabla1.jpg">
+
 Tabla I. Materiales y Equipo
 
 ***Pasos a seguir***
@@ -62,11 +64,11 @@ Tabla II. Parámetros Eléctricos del circuito
 
 ***Análisis de los resultados***
 
-**Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
+- **Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
-**¿Cuál fue la potencia máxima en RL? …………...Watts**
+- **¿Cuál fue la potencia máxima en RL? …………...Watts**
 
-**¿Para qué valor de RL se obtiene la MTP?.........Ω**
+- **¿Para qué valor de RL se obtiene la MTP?.........Ω**
 
 ## Video
 
