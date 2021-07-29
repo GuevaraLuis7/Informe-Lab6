@@ -53,8 +53,9 @@ Tabla I. Materiales y Equipo
 
 ***Procedimiento***
 
-Figura 1.- Circuito para comprobar el Teorema de la MTP
+<img src="imagenes/circuito1.jpg">
 
+Figura 1.- Circuito para comprobar el Teorema de la MTP
 
 ## Resultados
 
