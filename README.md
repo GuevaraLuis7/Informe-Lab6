@@ -97,23 +97,43 @@ Para el valor de 1000 Ω
 
 <img src="imagenes/anexo1.jpeg">
 
+*Anexo 1.- Circuito en Tinkercad.*
+
 <img src="imagenes/anexo2.jpeg">
+
+*Anexo 2.- Circuito en Tinkercad.*
 
 <img src="imagenes/anexo3.jpeg">
 
+*Anexo 3.- Circuito en Tinkercad.*
+
 <img src="imagenes/anexo4.jpeg">
+
+*Anexo 4.- Circuito en Tinkercad.*
 
 <img src="imagenes/anexo5.jpeg">
 
+*Anexo 5.- Circuito en Tinkercad.*
+
 <img src="imagenes/anexo6.jpeg">
+
+*Anexo 6.- Circuito en Tinkercad.*
 
 <img src="imagenes/anexo7.jpeg">
 
+*Anexo 7.- Circuito en Tinkercad.*
+
 <img src="imagenes/anexo8.jpeg">
+
+*Anexo 8.- Circuito en Tinkercad.*
 
 <img src="imagenes/anexo9.jpeg">
 
+*Anexo 9.- Circuito en Tinkercad.*
+
 <img src="imagenes/anexo10.jpeg">
+
+*Anexo 9.- Circuito en Tinkercad.*
 
 ## Bibliografía
 
