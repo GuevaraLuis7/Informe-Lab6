@@ -79,9 +79,11 @@ Tabla II. Parámetros Eléctricos del circuito
 
 - **Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
-- **¿Cuál fue la potencia máxima en RL? La maor potencia fue la de 46.79 mW**
+- **¿Cuál fue la potencia máxima en RL?**
+La mayor potencia fue la de 46.79 mW
 
-- **¿Para qué valor de RL se obtiene la MTP? Para el valor de 1000 Ω**
+- **¿Para qué valor de RL se obtiene la MTP?**
+Para el valor de 1000 Ω**
 
 ## Video
 
