@@ -79,6 +79,8 @@ Tabla II. Parámetros Eléctricos del circuito
 
 - **Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
 
+Se puede concluir que mientras más cerca sea la resistencia de carga con la resistencia de Thevenin cumpliremos con el Teorema de la Máxima Transferencia de Potencia,
+
 - **¿Cuál fue la potencia máxima en RL?**
 
 La mayor potencia fue la de 46.79 mW
