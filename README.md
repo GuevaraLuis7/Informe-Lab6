@@ -59,6 +59,16 @@ Tabla I. Materiales y Equipo
 
 Figura 1.- Circuito para comprobar el Teorema de la MTP
 
+<img src="imagenes/ejer1.jpg">
+
+<img src="imagenes/ejer2.jpg">
+
+<img src="imagenes/ejer3.jpg">
+
+<img src="imagenes/ejer4.jpg">
+
+<img src="imagenes/ejer5.jpg">
+
 ## Resultados
 
 Tabla II. Parámetros Eléctricos del circuito 
