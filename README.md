@@ -96,3 +96,10 @@ Para el valor de 1000 Ω
 ## Anexos
 
 ## Bibliografía
+
+FisicaPractica.com. (2007). Fisica practica. Obtenido de Fisica practica: https://www.fisicapractica.com/transferencia.php
+
+Gómez, A. J. (Enero de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/06_Thevenin_Norton_Maxima_Transferencia_de_Potencia.pdf
+
+Wikipedia. (12 de Diciembre de 2020). Wikipedia.org. Obtenido de Wikipedia.org: https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia
+
