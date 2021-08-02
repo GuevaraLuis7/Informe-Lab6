@@ -85,7 +85,7 @@ La mayor potencia fue la de 46.79 mW
 
 - **¿Para qué valor de RL se obtiene la MTP?**
 
-Para el valor de 1000 Ω**
+Para el valor de 1000 Ω
 
 ## Video
 
