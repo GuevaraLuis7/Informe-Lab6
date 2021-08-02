@@ -95,6 +95,26 @@ Para el valor de 1000 Ω
 
 ## Anexos
 
+<img src="imagenes/anexo1.jpeg">
+
+<img src="imagenes/anexo2.jpeg">
+
+<img src="imagenes/anexo3.jpeg">
+
+<img src="imagenes/anexo4.jpeg">
+
+<img src="imagenes/anexo5.jpeg">
+
+<img src="imagenes/anexo6.jpeg">
+
+<img src="imagenes/anexo7.jpeg">
+
+<img src="imagenes/anexo8.jpeg">
+
+<img src="imagenes/anexo9.jpeg">
+
+<img src="imagenes/anexo10.jpeg">
+
 ## Bibliografía
 
 FisicaPractica.com. (2007). Fisica practica. Obtenido de Fisica practica: https://www.fisicapractica.com/transferencia.php
