@@ -71,6 +71,8 @@ Figura 1.- Circuito para comprobar el Teorema de la MTP
 
 ## Resultados
 
+<img src="imagenes/tabla2.jpg">
+
 Tabla II. Parámetros Eléctricos del circuito 
 
 ***Porcentaje de error relativo entre los valores teóricos y los experimentales***
