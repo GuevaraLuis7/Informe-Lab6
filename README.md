@@ -97,7 +97,9 @@ Para el valor de 1000 Ω
 
 - Se comprendio el Teorema de la Máxima Transferencia de Potencia, y con ello se determino los voltajes, las potencias y corrientes en el circuito dado no solo teoricamente si no que en el uso practico como en la simulación.
 
-- Podemos concluir que dada una cierta resistencia de carga, la resistencia de fuente que maximiza la transferencia de potencia es siempre cero, independientemente del valor de la resistencia de carga.
+- Se pudo realizar tonto la forma practica como la teorica dandonos cuenta de que en ambos casos tuvimos valores semejantes que nos permitieron verificar que el proceso esta resuelto correctamente.
+
+- Con este laboratorio se pudo adquirir mayor conocimiento dentro del campo de circuitos electricos en el cual entendemos mas sus funcionamientos y podemos aplicar el  Teorema de la Máxima Transferencia de Potencia de forma satisfactoria.
 
 ## Anexos
 
