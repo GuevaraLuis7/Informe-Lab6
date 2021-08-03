@@ -95,6 +95,8 @@ Para el valor de 1000 Ω
 
 ## Conclusiones
 
+- Se comprendio el Teorema de la Máxima Transferencia de Potencia, y con ello se determino los voltajes, las potencias y corrientes en el circuito dado no solo teoricamente si no que en el uso practico como en la simulación.
+
 ## Anexos
 
 <img src="imagenes/anexo1.jpeg">
