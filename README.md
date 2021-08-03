@@ -77,10 +77,6 @@ Tabla II. Parámetros Eléctricos del circuito
 
 ***Porcentaje de error relativo entre los valores teóricos y los experimentales***
 
-<img src="imagenes/error1.jpg">
-
-<img src="imagenes/error2.jpg">
-
 ***Análisis de los resultados***
 
 - **Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
@@ -96,6 +92,8 @@ La mayor potencia fue la de 46.79 mW
 Para el valor de 1000 Ω
 
 ## Video
+
+https://youtu.be/DswGE1P4dGI
 
 ## Conclusiones
 
