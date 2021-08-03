@@ -77,6 +77,10 @@ Tabla II. Parámetros Eléctricos del circuito
 
 ***Porcentaje de error relativo entre los valores teóricos y los experimentales***
 
+<img src="imagenes/error1.jpg">
+
+<img src="imagenes/error2.jpg">
+
 ***Análisis de los resultados***
 
 - **Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.**
